@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Sanskar!
 
-<!--
-**Sanskar-Guru/Sanskar-Guru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 📚 Skilled in **manual testing**, **test case creation**, and **bug reporting**.
+- 🌱 Currently exploring **test automation** tools like Selenium, JIRA, and Postman.
+- 🎯 Focused on improving software quality and user experience through structured testing methodologies.
+- 💬 Open to collaborating on QA projects and sharing knowledge in the field of software testing.
 
-Here are some ideas to get you started:
+## Featured Repositories
+1. [Manual Test Cases](https://github.com/Sanskar-Guru/Manual-Test-Cases)  
+   Detailed test cases for login, signup, and other critical workflows.
+2. [Bug Reports](https://github.com/Sanskar-Guru/Bug-Reports)  
+   Sample bug reports with detailed scenarios and reproduction steps.
+3. [Automated Testing Scripts](https://github.com/Sanskar-Guru/Automated-Testing-Scripts)  
+   Beginner-level Selenium scripts for web application testing.
+4. [Testing Tools Documentation](https://github.com/Sanskar-Guru/QA-Tools)  
+   Guides and best practices for using JIRA, Postman, and Selenium.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Tools
+- 🖋️ **Manual Testing:** Test case writing, execution, and reporting.
+- 🛠️ **Defect Tracking Tools:** JIRA, Bugzilla.
+- 🔬 **API Testing:** Postman.
+- 🚀 **Test Automation:** Learning Selenium WebDriver and TestNG.
+- 🧰 **Version Control:** Git and GitHub.
+
+## Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanskar-guru-669293158/)
+- 📧 [Email](mailto:sanskar.guru232000@gmail.com)
