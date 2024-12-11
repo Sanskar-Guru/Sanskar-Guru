@@ -7,13 +7,13 @@
 - 💬 Open to collaborating on QA projects and sharing knowledge in the field of software testing.
 
 ## Featured Repositories
-1. [Manual Test Cases](https://github.com/Sanskar-Guru/Manual-Test-Cases)  
+1. [Manual Test Cases](https://github.com/yourusername/Manual-Test-Cases)  
    Detailed test cases for login, signup, and other critical workflows.
-2. [Bug Reports](https://github.com/Sanskar-Guru/Bug-Reports)  
+2. [Bug Reports](https://github.com/yourusername/Bug-Reports)  
    Sample bug reports with detailed scenarios and reproduction steps.
-3. [Automated Testing Scripts](https://github.com/Sanskar-Guru/Automated-Testing-Scripts)  
+3. [Automated Testing Scripts](https://github.com/yourusername/Automated-Testing-Scripts)  
    Beginner-level Selenium scripts for web application testing.
-4. [Testing Tools Documentation](https://github.com/Sanskar-Guru/QA-Tools)  
+4. [Testing Tools Documentation](https://github.com/yourusername/QA-Tools)  
    Guides and best practices for using JIRA, Postman, and Selenium.
 
 ## Skills and Tools
